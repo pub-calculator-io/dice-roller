@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_dice_roller
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Dice Roller by Calculator.iO";
 
 function display_ci_dice_roller(){
