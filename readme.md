@@ -13,7 +13,7 @@ This online dice roller uses random number generation to create a digital dice r
 
 ## Usage
 * Add the shortcode `[ci_dice_roller]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_dice_roller(); ?>` to your template where you would like the Dice Roller to appear.
+* Or add the following code: `<?php display_ci_dice_roller(); ?>` to your template where you would like the Dice Roller to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
