@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Dice Roller](https://www.calculator.io/dice-roller/ "Dice Roller Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_dice_roller]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Dice Roller to the sidebar through the `Appearance -> Widgets -> Dice Roller` menu in WordPress.
+* Add the shortcode `[ci_dice_roller]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_dice_roller(); ?>` to your template where you would like the Dice Roller to appear.
 
 == Screenshots ==
