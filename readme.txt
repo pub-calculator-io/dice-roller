@@ -13,6 +13,8 @@ This online dice roller uses random number generation to create a digital dice r
 
 This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
 
+[Dice Roller Homepage](https://www.calculator.io/dice-roller/ "Dice Roller Homepage")
+
 __Shortcode__
 
 Use the Dice Roller shortcode:
