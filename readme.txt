@@ -13,34 +13,35 @@ This online dice roller uses random number generation to create a digital dice r
 
 This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
 
-[Dice Roller Homepage](https://www.calculator.io/dice-roller/ "Dice Roller Homepage")
+[https://www.calculator.io/dice-roller/](https://www.calculator.io/dice-roller/)
 
-__Shortcode__
-
-Use the Dice Roller shortcode:
+__Dice Roller Shortcode__
 
 `[ci_dice_roller]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_dice_roller/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Dice Roller](https://www.calculator.io/dice-roller/ "Dice Roller Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Dice Roller Usage ==
+
 * Add the shortcode `[ci_dice_roller]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_dice_roller(); ?>` to your template where you would like the Dice Roller to appear.
 
 == Screenshots ==
+
 1. The Dice Roller Input Form.
 2. The Dice Roller Calculation Results.
+
+== Libraries used in Dice Roller ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
