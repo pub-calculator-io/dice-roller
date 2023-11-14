@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
 
-== Description ==
-
-This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
-
 [https://www.calculator.io/dice-roller/](https://www.calculator.io/dice-roller/)
 
-__Dice Roller Shortcode__
+== Usage ==
+
+Add the Dice Roller shortcode to your page, post or sidebar:
 
 `[ci_dice_roller]`
 
-== Installation ==
+Add the following code to your template where you would like the Dice Roller to appear:
 
-1. Upload the /ci_dice_roller/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Dice Roller](https://www.calculator.io/dice-roller/ "Dice Roller Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Dice Roller Usage ==
-
-* Add the shortcode `[ci_dice_roller]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_dice_roller(); ?>` to your template where you would like the Dice Roller to appear.
+`<?php display_ci_dice_roller(); ?>`
 
 == Screenshots ==
 
 1. The Dice Roller Input Form.
 2. The Dice Roller Calculation Results.
 
-== Libraries used in Dice Roller ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Dice Roller /ci_dice_roller/ folder to the /wp-content/plugins/ directory.
+2. Activate the Dice Roller plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Dice Roller
