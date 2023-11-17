@@ -1,6 +1,6 @@
 === Dice Roller by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: dice roller, online dice simulator, roll dice online, virtual dice roll, tabletop dice roller, rpg dice roller, board game dice, random dice generator, digital dice roller, dice roller for games
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
