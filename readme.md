@@ -1,4 +1,4 @@
-# Dice Roller WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Dice Roller Widget for WordPress
 
 This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
 
