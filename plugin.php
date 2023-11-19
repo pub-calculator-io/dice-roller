@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Dice Roller by www.calculator.io
+Plugin Name: CI Dice roller
 Plugin URI: https://www.calculator.io/dice-roller/
 Description: This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
 Version: 1.0.0

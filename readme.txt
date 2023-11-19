@@ -1,4 +1,4 @@
-=== Dice Roller by www.calculator.io ===
+=== CI Dice roller ===
 Contributors: calculatorio
 Tags: dice roller, online dice simulator, roll dice online, virtual dice roll, tabletop dice roller, rpg dice roller, board game dice, random dice generator, digital dice roller, dice roller for games
 Requires at least: 5.0
