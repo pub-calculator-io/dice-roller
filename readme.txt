@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Dice Roller to 
 == Screenshots ==
 
 1. The Dice Roller Input Form.
-2. The Dice Roller Calculation Results.
 
 == Installation ==
 

@@ -3,7 +3,6 @@
 This online dice roller uses random number generation to create a digital dice rolling experience with all sorts of beneficial uses.
 
 ![Dice Roller Input Form](/assets/images/screenshot-1.png "Dice Roller Input Form")
-![Dice Roller Calculation Results](/assets/images/screenshot-2.png "Dice Roller Calculation Results")
 
 ## Installation
 
